@@ -22,7 +22,8 @@ How to play:
   </tr>
 </table>
 
-This is a study-case about minimax, where an AI gets or lose points every round it wins or loses. You only earn points every time you win.
+This is a study-case about minimax, where an AI can Windows every round and you have to defeat it.
+Pointing system to AI:
 <ul>
   <li>Wins: +1</li>
   <li>Draws: 0</li>
