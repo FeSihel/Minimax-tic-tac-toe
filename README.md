@@ -22,11 +22,12 @@ How to play:
   </tr>
 </table>
 
-This is a study-case about minimax, where an AI can win every round and you have to defeat it. <br>
+This is a study-case about minimax <br>
+The AI, every round will analyze your plays and win every round (Max). You have to defeat it (Min)! <br>
 Pointing system to AI:
 <ul>
-  <li>Wins: +1</li>
+  <li>Wins: +1 (Max, AI wins)</li>
   <li>Draws: 0</li>
-  <li>Loses: -1</li>
+  <li>Loses: -1 (Min, you win!)</li>
 </ul>
 
