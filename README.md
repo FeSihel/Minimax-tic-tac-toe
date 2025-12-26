@@ -22,7 +22,7 @@ How to play:
   </tr>
 </table>
 
-This is a study-case about minimax, where an AI can win every round and you have to defeat it.
+This is a study-case about minimax, where an AI can win every round and you have to defeat it. <br>
 Pointing system to AI:
 <ul>
   <li>Wins: +1</li>
