@@ -23,7 +23,7 @@ How to play:
 </table>
 
 This is a study-case about minimax <br>
-The AI, every round will analyze your plays and win every round (Max). You have to defeat it (Min)! <br>
+The AI, every round will analyze your plays and win every round (Max) while you try to defeat it (Min)! <br>
 Pointing system to AI:
 <ul>
   <li>Wins: +1 (Max, AI wins)</li>
